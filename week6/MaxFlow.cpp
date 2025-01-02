@@ -8,7 +8,7 @@ int n, m;
 int s, e;
 vector <int> adj[10005];
 map <pii, int> cap;
-map <pii, int> f; // gia tri luong
+map <pii, int> f;
 int max_flow = 0;
 int max_add;
 

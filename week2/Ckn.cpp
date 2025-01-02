@@ -1,8 +1,8 @@
 //C++
+
 #include <bits/stdc++.h>
 
 using namespace std;
-
 #define MAX 1000000007
 
 long long c[501][1000], k, n;

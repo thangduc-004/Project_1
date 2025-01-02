@@ -8,8 +8,8 @@ int n, m;
 set <pair<int, pair<int,int>>> s;
 int ans = 0;
 int edge = 0;
-int father[MAX]; // Dung cho Union Set
-int h[MAX]; // ..................
+int father[MAX]; 
+int h[MAX]; 
 
 void makeset(int x)
 {

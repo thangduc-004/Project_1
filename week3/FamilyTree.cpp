@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+
 map<string,vector<string>> a;
 
 int descendants(string s3){
